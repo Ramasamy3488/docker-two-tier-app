@@ -1,1 +1,1 @@
-# docker-two-tier-app
+# two-tier-app
